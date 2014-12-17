@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dichos y Refranes</string>
+    <string name="title">Dichos y Refranes</string>
+
+
+    <string name="configurationTxt">Configuración</string>
+    <string name="colorTxt">Color</string>
+
+    <string name="configButton">Añadir widget</string>
+
+    <string name="titleLabel">Dichos y Refranes</string>
+    <string name="shareDichosRefranes">Compartir</string>
+
+    <string name="click">Toca para obtener un nuevo refrán</string>
+
+
+    <string-array name="colors">
+        <item>Amarillo</item>
+        <item>Azul</item>
+        <item>Blanco</item>
+        <item>Gris</item>
+        <item>Morado</item>
+        <item>Negro</item>
+        <item>Rojo</item>
+        <item>Rosa</item>
+        <item>Verde</item>
+    </string-array>
+
+
+</resources>
